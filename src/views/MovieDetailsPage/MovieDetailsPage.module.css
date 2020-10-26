@@ -1,0 +1,39 @@
+.box {
+  margin-bottom: 10px;
+}
+
+.imgBox {
+  float: left;
+  width: 300px;
+  padding: 20px;
+}
+
+.clearfix::after {
+  display: table;
+  content: "";
+  clear: both;
+}
+
+.button {
+  margin-left: 30px;
+  background-color: #fff;
+}
+
+.descrBox {
+  padding: 20px;
+}
+.info {
+  margin-left: 20px;
+}
+
+.gap {
+  margin-bottom: 15px;
+}
+
+.linkBox {
+  margin: 10px;
+}
+
+hr {
+  margin-bottom: 10px;
+}
